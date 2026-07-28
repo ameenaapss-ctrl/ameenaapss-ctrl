@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 190" width="380" height="190" role="img" aria-label="Ameena's top languages">
+<defs>
+<style><![CDATA[
+text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+@keyframes fadeIn{from{opacity:0}to{opacity:1}}
+@keyframes growW{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+.bar{transform-box:fill-box;transform-origin:left;animation:growW .8s cubic-bezier(.2,.8,.3,1) forwards}
+.lb{opacity:0;animation:fadeIn .4s ease forwards}
+]]></style>
+</defs>
+<rect x="1" y="1" width="378" height="188" rx="14" fill="#0a1826" stroke="#123043" stroke-width="1"/>
+<text x="24" y="34" font-size="16" font-weight="700" fill="#e6f6f8" style="animation:fadeIn .5s ease forwards">Most Used Languages</text>
+
+<g font-size="12.5">
+  <g class="lb" style="animation-delay:.4s"><text x="24" y="62" fill="#c9d1d9">TypeScript</text><text x="356" y="62" text-anchor="end" fill="#67e8f9">48%</text></g>
+  <rect x="24" y="68" width="332" height="9" rx="4.5" fill="#123043"/>
+  <rect class="bar" x="24" y="68" width="159" height="9" rx="4.5" fill="#3178c6" style="animation-delay:.5s"/>
+
+  <g class="lb" style="animation-delay:.6s"><text x="24" y="94" fill="#c9d1d9">Python</text><text x="356" y="94" text-anchor="end" fill="#67e8f9">27%</text></g>
+  <rect x="24" y="100" width="332" height="9" rx="4.5" fill="#123043"/>
+  <rect class="bar" x="24" y="100" width="90" height="9" rx="4.5" fill="#3776ab" style="animation-delay:.7s"/>
+
+  <g class="lb" style="animation-delay:.8s"><text x="24" y="126" fill="#c9d1d9">JavaScript</text><text x="356" y="126" text-anchor="end" fill="#67e8f9">15%</text></g>
+  <rect x="24" y="132" width="332" height="9" rx="4.5" fill="#123043"/>
+  <rect class="bar" x="24" y="132" width="50" height="9" rx="4.5" fill="#f1e05a" style="animation-delay:.9s"/>
+
+  <g class="lb" style="animation-delay:1.0s"><text x="24" y="158" fill="#c9d1d9">HTML / CSS</text><text x="356" y="158" text-anchor="end" fill="#67e8f9">10%</text></g>
+  <rect x="24" y="164" width="332" height="9" rx="4.5" fill="#123043"/>
+  <rect class="bar" x="24" y="164" width="33" height="9" rx="4.5" fill="#2dd4bf" style="animation-delay:1.1s"/>
+</g>
+</svg>

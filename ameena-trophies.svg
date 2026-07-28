@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 190" width="980" height="190" role="img" aria-label="Ameena's trophies">
+<defs>
+<style><![CDATA[
+text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+@keyframes popIn{0%{opacity:0;transform:translateY(14px) scale(.7)}70%{opacity:1;transform:translateY(-3px) scale(1.05)}100%{opacity:1;transform:translateY(0) scale(1)}}
+@keyframes shine{0%{transform:translateX(-60px) rotate(20deg)}100%{transform:translateX(200px) rotate(20deg)}}
+.cell{opacity:0;animation:popIn .5s cubic-bezier(.2,.8,.3,1.2) forwards;transform-box:fill-box;transform-origin:center}
+.shine{animation:shine 3s ease-in-out infinite}
+]]></style>
+<linearGradient id="shg" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/><stop offset="50%" stop-color="#ffffff" stop-opacity=".3"/><stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<clipPath id="c0"><rect x="20" y="20" width="150" height="150" rx="14"/></clipPath>
+<clipPath id="c1"><rect x="185" y="20" width="150" height="150" rx="14"/></clipPath>
+<clipPath id="c2"><rect x="350" y="20" width="150" height="150" rx="14"/></clipPath>
+<clipPath id="c3"><rect x="515" y="20" width="150" height="150" rx="14"/></clipPath>
+<clipPath id="c4"><rect x="680" y="20" width="150" height="150" rx="14"/></clipPath>
+<clipPath id="c5"><rect x="845" y="20" width="150" height="150" rx="14"/></clipPath>
+</defs>
+
+<!-- shared cell template repeated -->
+<g>
+  <!-- 1: Repositories -->
+  <g class="cell" style="animation-delay:.1s">
+    <rect x="20" y="20" width="150" height="150" rx="14" fill="#0a1826" stroke="#123043"/>
+    <text x="95" y="60" text-anchor="middle" font-size="34">📦</text>
+    <text x="95" y="100" text-anchor="middle" font-size="12.5" fill="#c9d1d9">Repositories</text>
+    <text x="95" y="128" text-anchor="middle" font-size="22" font-weight="800" fill="#67e8f9">2</text>
+    <text x="95" y="150" text-anchor="middle" font-size="10" fill="#5f7d87">RISING TALENT</text>
+    <g clip-path="url(#c0)"><rect class="shine" x="0" y="20" width="40" height="150" fill="url(#shg)"/></g>
+  </g>
+  <!-- 2: Commits -->
+  <g class="cell" style="animation-delay:.25s">
+    <rect x="185" y="20" width="150" height="150" rx="14" fill="#0a1826" stroke="#123043"/>
+    <text x="260" y="60" text-anchor="middle" font-size="34">💾</text>
+    <text x="260" y="100" text-anchor="middle" font-size="12.5" fill="#c9d1d9">Commits</text>
+    <text x="260" y="128" text-anchor="middle" font-size="22" font-weight="800" fill="#38bdf8">C</text>
+    <text x="260" y="150" text-anchor="middle" font-size="10" fill="#5f7d87">JUST STARTED</text>
+    <g clip-path="url(#c1)"><rect class="shine" x="0" y="20" width="40" height="150" fill="url(#shg)"/></g>
+  </g>
+  <!-- 3: Stars -->
+  <g class="cell" style="animation-delay:.4s">
+    <rect x="350" y="20" width="150" height="150" rx="14" fill="#0a1826" stroke="#123043"/>
+    <text x="425" y="60" text-anchor="middle" font-size="34">⭐</text>
+    <text x="425" y="100" text-anchor="middle" font-size="12.5" fill="#c9d1d9">Stars</text>
+    <text x="425" y="128" text-anchor="middle" font-size="22" font-weight="800" fill="#2dd4bf">C</text>
+    <text x="425" y="150" text-anchor="middle" font-size="10" fill="#5f7d87">JUST STARTED</text>
+    <g clip-path="url(#c2)"><rect class="shine" x="0" y="20" width="40" height="150" fill="url(#shg)"/></g>
+  </g>
+  <!-- 4: Followers -->
+  <g class="cell" style="animation-delay:.55s">
+    <rect x="515" y="20" width="150" height="150" rx="14" fill="#0a1826" stroke="#123043"/>
+    <text x="590" y="60" text-anchor="middle" font-size="34">🤝</text>
+    <text x="590" y="100" text-anchor="middle" font-size="12.5" fill="#c9d1d9">Followers</text>
+    <text x="590" y="128" text-anchor="middle" font-size="22" font-weight="800" fill="#a78bfa">C</text>
+    <text x="590" y="150" text-anchor="middle" font-size="10" fill="#5f7d87">JUST STARTED</text>
+    <g clip-path="url(#c3)"><rect class="shine" x="0" y="20" width="40" height="150" fill="url(#shg)"/></g>
+  </g>
+  <!-- 5: Experience -->
+  <g class="cell" style="animation-delay:.7s">
+    <rect x="680" y="20" width="150" height="150" rx="14" fill="#0a1826" stroke="#123043"/>
+    <text x="755" y="60" text-anchor="middle" font-size="34">📊</text>
+    <text x="755" y="100" text-anchor="middle" font-size="12.5" fill="#c9d1d9">Focus</text>
+    <text x="755" y="128" text-anchor="middle" font-size="16" font-weight="800" fill="#f472b6">Data + AI</text>
+    <text x="755" y="150" text-anchor="middle" font-size="10" fill="#5f7d87">DAY ONE</text>
+    <g clip-path="url(#c4)"><rect class="shine" x="0" y="20" width="40" height="150" fill="url(#shg)"/></g>
+  </g>
+  <!-- 6: Streak -->
+  <g class="cell" style="animation-delay:.85s">
+    <rect x="845" y="20" width="150" height="150" rx="14" fill="#0a1826" stroke="#123043"/>
+    <text x="920" y="60" text-anchor="middle" font-size="34">🔥</text>
+    <text x="920" y="100" text-anchor="middle" font-size="12.5" fill="#c9d1d9">Streak</text>
+    <text x="920" y="128" text-anchor="middle" font-size="22" font-weight="800" fill="#facc15">1</text>
+    <text x="920" y="150" text-anchor="middle" font-size="10" fill="#5f7d87">DAY(S)</text>
+    <g clip-path="url(#c5)"><rect class="shine" x="0" y="20" width="40" height="150" fill="url(#shg)"/></g>
+  </g>
+</g>
+</svg>
