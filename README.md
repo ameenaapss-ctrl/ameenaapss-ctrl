@@ -73,7 +73,7 @@
 
 ### 📫 Let's Connect
 
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-22d3ee?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:ameenaapss@gmail.com"><img src="https://img.shields.io/badge/Email-22d3ee?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/ameenaapss-ctrl"><img src="https://img.shields.io/badge/GitHub-3b82f6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://ameena-portfolio-mocha.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2dd4bf?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
