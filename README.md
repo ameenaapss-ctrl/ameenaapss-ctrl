@@ -13,13 +13,13 @@
 
 <table align="center" border="0">
 <tr>
-<td width="42%" align="center" valign="middle">
+<td align="center" valign="middle">
 
 <!-- 🪪 Swinging Lanyard ID Card -->
-<img src="./ameena-lanyard.svg?v=1" alt="Ameena ID badge" width="420"/>
+<img src="./ameena-lanyard.svg?v=2" alt="Ameena ID badge"/>
 
 </td>
-<td width="58%" valign="middle">
+<td valign="middle">
 
 ### 🧩 Things I've Built
 
