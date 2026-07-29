@@ -13,7 +13,7 @@
 <td width="45%" align="center" valign="middle">
 
 <!-- 🪪 Swinging Lanyard ID Card (enlarged) -->
-<img src="./ameena-lanyard.svg?v=1" alt="Ameena ID badge" width="450"/>
+<img src="./ameena-lanyard.svg?v=1" alt="Ameena ID badge" width="550"/>
 
 </td>
 <td width="55%" valign="middle">
