@@ -13,13 +13,13 @@
 
 <table align="center" border="0">
 <tr>
-<td width="50%" align="center" valign="middle">
+<td width="42%" align="center" valign="middle">
 
-<!-- 🪪 Swinging Lanyard ID Card (enlarged) -->
-<img src="./ameena-lanyard.svg?v=1" alt="Ameena ID badge" width="100%"/>
+<!-- 🪪 Swinging Lanyard ID Card -->
+<img src="./ameena-lanyard.svg?v=1" alt="Ameena ID badge" width="420"/>
 
 </td>
-<td width="50%" valign="middle">
+<td width="58%" valign="middle">
 
 ### 🧩 Things I've Built
 
@@ -74,4 +74,15 @@
 ### 📫 Let's Connect
 
 <a href="mailto:ameenaapss@gmail.com"><img src="https://img.shields.io/badge/Email-22d3ee?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/ameenaapss-ctrl"><img src="https://img.shields.io/badge
+<a href="https://github.com/ameenaapss-ctrl"><img src="https://img.shields.io/badge/GitHub-3b82f6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://ameena-portfolio-mocha.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2dd4bf?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ameenaapss-ctrl&color=22d3ee&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/><br/>
+
+*📈 Turning data into decisions, one dashboard at a time.* 💠
+
+</div>
