@@ -1,25 +1,22 @@
 <div align="center">
-
 <!-- ✨ Animated Banner ✨ -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./ameena-banner.svg?v=1">
   <source media="(prefers-color-scheme: light)" srcset="./ameena-banner-light.svg?v=1">
   <img src="./ameena-banner.svg?v=1" alt="Ameena — Data Analyst" width="100%"/>
 </picture>
-
 </div>
-
 <br/>
 
 <table align="center" border="0">
 <tr>
-<td width="34%" align="center" valign="middle">
+<td width="45%" align="center" valign="middle">
 
-<!-- 🪪 Swinging Lanyard ID Card -->
-<img src="./ameena-lanyard.svg?v=1" alt="Ameena ID badge" width="300"/>
+<!-- 🪪 Swinging Lanyard ID Card (enlarged) -->
+<img src="./ameena-lanyard.svg?v=1" alt="Ameena ID badge" width="450"/>
 
 </td>
-<td width="66%" valign="middle">
+<td width="55%" valign="middle">
 
 ### 🧩 Things I've Built
 
@@ -39,7 +36,6 @@
 </td>
 </tr>
 </table>
-
 <br/>
 
 <div align="center">
